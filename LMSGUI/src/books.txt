@@ -1,0 +1,7 @@
+15,1984,George Orwell,Fiction,5
+13,Metamorphosis,Franz Kafka,Philosphy,3
+24,The Prince,Niccholo Machiaveli,Psychology,2
+24,The Prince,Niccholo Machiaveli,Psychology,2
+9,No Longer Human,Dazai Osamu,Fiction,4
+16,To Kill a Mockingbird,Harper Lee,Fiction,3
+17,The Great Gatsby,F. Scott Fitzgerald,Fiction,4
